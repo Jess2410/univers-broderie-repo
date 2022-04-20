@@ -24,7 +24,7 @@ Voici quelques aperçus :
 
 <b>Tablet View : </b>
 <br/>
-![image](https://user-images.githubusercontent.com/89982670/164182505-c27297e8-d01a-4f1c-8e6c-601dc2c457bc.png)
+![image](https://user-images.githubusercontent.com/89982670/164200847-e08a7269-8fdd-4940-84a8-ee3022304499.png)
 <br/>
 
 <b>Phone View :</b>
