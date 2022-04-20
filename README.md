@@ -29,6 +29,6 @@ Voici quelques aperçus :
 
 <b>Phone View :</b>
 <br/>
-![xr](https://user-images.githubusercontent.com/89982670/164120178-4687fec4-7bee-47d3-9494-9f46ba09e28e.jpg)
+![image](https://user-images.githubusercontent.com/89982670/164201228-6bd99977-3cee-4e24-a563-c67806b03181.png)
 
 <b>Bonne visite !</b>
