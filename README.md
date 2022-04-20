@@ -19,7 +19,7 @@ Voici quelques aperçus :
 
 <b>Desktop view: </b>
 <br/>
-![image](https://user-images.githubusercontent.com/89982670/164119659-c2c6dcc7-6207-49bb-b0aa-d7c7db7f3f2b.png)
+![image](https://user-images.githubusercontent.com/89982670/164200619-8993ef34-152d-4074-ac0d-0463b80cb520.png)
 <br/>
 
 <b>Tablet View : </b>
