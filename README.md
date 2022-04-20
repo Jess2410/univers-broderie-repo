@@ -1,6 +1,6 @@
 <b>Bonjour et bienvenue !</b>
 
-Voici le lien du projet déployé afin de pouvoir le visualiser plus facilement : https://jess2410.github.io/univers-brodery-repo/
+Voici le lien du projet déployé afin de pouvoir le visualiser plus facilement : https://jess2410.github.io/univers-broderie-repo/
 
 Les packages à installer sont : 
  - npm i swiper
